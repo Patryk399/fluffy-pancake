@@ -1,0 +1,1 @@
+C:\Users\wozny\Desktop\Nauka C++\C++ OOP\shared_ptr\x64\Debug\shared_ptr.exe

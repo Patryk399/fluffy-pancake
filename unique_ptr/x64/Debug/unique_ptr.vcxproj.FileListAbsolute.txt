@@ -1,0 +1,1 @@
+C:\Users\wozny\Desktop\Nauka C++\C++ OOP\unique_ptr\x64\Debug\unique_ptr.exe
