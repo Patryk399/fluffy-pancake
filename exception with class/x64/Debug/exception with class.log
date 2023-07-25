@@ -1,0 +1,3 @@
+﻿  exception with class.cpp
+C:\Users\wozny\Desktop\Nauka C++\C++ OOP\exception with class\exception with class.cpp(10,17): warning C4101: 'wyjatek_1': unreferenced local variable
+  exception with class.vcxproj -> C:\Users\wozny\Desktop\Nauka C++\C++ OOP\exception with class\x64\Debug\exception with class.exe
