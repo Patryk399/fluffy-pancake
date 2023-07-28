@@ -1,0 +1,7 @@
+﻿  Template 2 - class.cpp
+C:\Users\wozny\Desktop\Nauka C++\C++ OOP\Template 2 - class\Template 2 - class.cpp(20,32): warning C4305: 'argument': truncation from 'double' to 'P'
+          with
+          [
+              P=float
+          ]
+  Template 2 - class.vcxproj -> C:\Users\wozny\Desktop\Nauka C++\C++ OOP\Template 2 - class\x64\Debug\Template 2 - class.exe
