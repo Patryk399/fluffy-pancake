@@ -1,0 +1,3 @@
+﻿  Array.cpp
+C:\Users\wozny\Desktop\Nauka C++\C++ OOP\Array\Array.cpp(6,25): warning C4101: 'liczby_1': unreferenced local variable
+  Array.vcxproj -> C:\Users\wozny\Desktop\Nauka C++\C++ OOP\Array\x64\Debug\Array.exe
